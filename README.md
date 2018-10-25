@@ -1,8 +1,6 @@
 # MSOfficeConvert
 
-VBA Batch conversion scripts for legacy Microsoft Office Formats
-
-----
+A set of VBA scripts for bulk converting legacy Microsoft Office formats. Uploaded here, in case you're placed in the same unenviable position of having to do this
 
 ## Instructions
 
@@ -19,3 +17,7 @@ If you wish to track the progress of the conversion for large numbers of files, 
 Then click `Run -> Run Macro`. Check an function named similarly to *TranslateDocIntoDocx* is present, then press `Run`.
 
 The script will run, printing the file progress in the *immediate* window.
+
+## License
+
+These files are released into the public domain through the Unlicense, a copy of which is included in this repository.
